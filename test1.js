@@ -41,3 +41,14 @@ console.log(true || false);
 // let a = "Hello";
 // a = prompt("world");
 // console.log(a);
+
+// a = 130;
+// b = (a * 1.61);
+// console.log('Расстояние 130 миль равно ' + b + ' км');
+
+
+// let a = "Hello";
+// a = prompt("world");
+// console.log(a);
+
+// Changes
