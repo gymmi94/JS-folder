@@ -41,7 +41,3 @@ console.log(true || false);
 // let a = "Hello";
 // a = prompt("world");
 // console.log(a);
-
-// let a = "Hello";
-// a = prompt("world");
-// console.log(a);
