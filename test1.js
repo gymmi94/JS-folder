@@ -36,19 +36,13 @@
 // console.log(a);
 
 
-console.log(true || false);
+// console.log(true || false);
 
-// let a = "Hello";
-// a = prompt("world");
-// console.log(a);
+let shopping;
+shopping = ['Milk', 'Bread', 'Apples'];
 
-// a = 130;
-// b = (a * 1.61);
-// console.log('Расстояние 130 миль равно ' + b + ' км');
+console.log(shopping.length);
 
+shopping[1] = 'Bananas';
 
-// let a = "Hello";
-// a = prompt("world");
-// console.log(a);
-
-// Changes
+console.log('shoping', shopping);
