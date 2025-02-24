@@ -84,20 +84,32 @@
 
 // Практическое занятие 3.4
 
-let myCar = {
-    make: 'BMW',
-    model: 'M5',
-    color: 'Black',
-    wheelAmount: 4,
-    doIHaveIt: false
-};
+// let myCar = {
+//     make: 'BMW',
+//     model: 'M5',
+//     color: 'Black',
+//     wheelAmount: 4,
+//     doIHaveIt: false
+// };
 
-let carColor = myCar.color;
-let newCarColor = carColor;
-newCarColor = 'Pink'; /* Мы переназначили со свойства myCar на цвет Pink,
- и переменная newCarColor перестала относиться к myCar.color напрямую */ 
-console.log(newCarColor);
+// let carColor = myCar.color;
+// let newCarColor = carColor;
+// newCarColor = 'Pink'; /* Мы переназначили со свойства myCar на цвет Pink,
+//  и переменная newCarColor перестала относиться к myCar.color напрямую */ 
+// console.log(newCarColor);
 
-let wheelInfo = myCar.wheelAmount;
-wheelInfo = 4;
-console.log(myCar.wheelAmount);
+// let wheelInfo = myCar.wheelAmount;
+// wheelInfo = 4;
+// console.log(myCar.wheelAmount);
+
+
+// const myArr2 = [];
+// myArr2[10] = 'test'
+// console.log(myArr2);
+// console.log(myArr2[2]);
+
+
+// const myArr3 = [3,6,8,9,3,55,553,434];
+//  myArr3.sort();
+//  myArr3.length = 0;
+//  console.log(myArr3[0]);
